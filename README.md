@@ -2,9 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">TVT student, 18 years old</h3>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+<img align="right" alt="Coding" width="400" length="10" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
 
 <h4 align="center">- 📫 How to reach me **sma4no.7@gmail.com**</h4>
+
 
 
 
