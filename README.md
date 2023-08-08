@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Maks</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">TVT student, 18 years old</h3>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate developer from Ukraine</h3>
 
 
 <h4 align="center">- 📫 How to reach me **sma4no.7@gmail.com**</h4>
