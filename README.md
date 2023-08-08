@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">TVT student, 18 years old</h3>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/af/57/e2/af57e27df9fd71052a50144e6c378461.gif">
+<iframe src="https://gifer.com/embed/5TMy" width=480 height=750.638 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 📫 How to reach me **sma4no.7@gmail.com**
 
